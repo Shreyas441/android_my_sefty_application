@@ -1,0 +1,1 @@
+# android_my_sefty_application
